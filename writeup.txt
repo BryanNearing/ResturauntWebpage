@@ -1,0 +1,3 @@
+This is the resturaunt page, it is a basic web page designed in html and css with bootstrap.
+
+The page has a carousel, cards, grids of cards, a CTA button, and a contact form that is accessed by a nav bar at the top.
